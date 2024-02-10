@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "headline": "Sun's Out, BOGO's Out",
+        "sub-head": "Through 8/26",
+        "img-url": "https://images.unsplash.com/photo-1609167830220-7164aa360951?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZHN8ZW58MHx8MHx8fDA%3D0"
+    },
+    {
+        "id":2,
+        "headline": "New Restaurants",
+        "sub-head": "Added Daily",
+        "img-url": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id":3,
+        "headline": "The Sandwich Stop",
+        "sub-head": "Flavor meets Satisfaction",
+        "img-url": "https://images.unsplash.com/photo-1621800043295-a73fe2f76e2c?q=80&w=1174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":4,
+        "headline": "We Deliver Desserts Too",
+        "sub-head": "Tasty Treats",
+        "img-url": "https://images.unsplash.com/photo-1481391032119-d89fee407e44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2RzfGVufDB8fDB8fHww"
+    },
+    {
+        "id":5,
+        "headline": "Donut Worry,Be Happy",
+        "sub-head": "Every day",
+        "img-url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVzc2VydHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id":6,
+        "headline": "Givin’ You A Pizza Mind",
+        "sub-head": "Pizzas in various flavors",
+        "img-url": "https://images.unsplash.com/photo-1571066811602-716837d681de?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGl6emF8ZW58MHx8MHx8fDA%3D"
+    }
+]
